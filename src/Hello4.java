@@ -6,7 +6,7 @@ public class Hello4 {
 		int a = 1;
 		System.out.println(a);
 		
-		int b = 3;
+		int b = 34;
 		System.out.println(b);
 	}
 
