@@ -20,7 +20,9 @@ public class Hello4 {
 		
 		int f = 10000;
 		System.out.println(e);
-		
+	
+		int z = 10002;
+		System.out.println(e);
 	}
 
 }
