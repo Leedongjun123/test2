@@ -14,6 +14,13 @@ public class Hello4 {
 		
 		int d = 1234;
 		System.out.println(d);
+		
+		int e = 10001;
+		System.out.println(e);
+		
+		int f = 10000;
+		System.out.println(e);
+		
 	}
 
 }
