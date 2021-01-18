@@ -23,6 +23,9 @@ public class Hello4 {
 	
 		int z = 10002;
 		System.out.println(e);
+		
+		int h = 1002;
+		System.out.println(h);
 	}
 
 }
