@@ -8,6 +8,9 @@ public class Hello4 {
 		
 		int b = 34;
 		System.out.println(b);
+		
+		int c = 135;
+		System.out.println(c);
 	}
 
 }
